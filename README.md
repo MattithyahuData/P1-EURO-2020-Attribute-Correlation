@@ -1,4 +1,4 @@
-#### To see more projects CLICK [here](https://mattithyahudata.github.io/devportfolio/)
+#### To see more projects CLICK [here](https://mattithyahudata.github.io/devportfolio/).
 # P1 EURO 2020 Attribute Correlation
 
 * Goal: Web scrape data to find a if there is a correlation between team attributes and team rank in The UEFA European Championship.
