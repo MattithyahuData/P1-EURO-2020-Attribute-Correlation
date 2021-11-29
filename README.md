@@ -1,13 +1,16 @@
 # World Cup 2022 Prediction
 
-
-## Project Overview
-- We need to know which factors influence to give a loan
-- We also need to look for any opportunity to increase the bank's assets.
-- It was found that apart from income, family size is an important factor.
-- The libraries used were pandas, numpy, matplotlib, seaborn and scipy.
+# explain all steps 
+### Project Overview
+- AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+- AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+- AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+- AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+- AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 - You can access the Jupiter Notebook at this **[LINK](https://github.com/MattithyahuData/P1-EURO-2020-Attribute-Correlation/blob/main/P1%20Code.ipynb)**
 
+
+KEYYYY! 
 ## Objectives
 Central question:
 
