@@ -11,7 +11,7 @@
 [**Anaconda Packages:**](requirements.txt) pandas, numpy, sklearn, matplotlib, seaborn, selenium, flask, json, pickle  --> *pip install listed* --
 *pip3 install lxml*
 
-[Kaggle Data source link](https://www.kaggle.com/nehalbirla/vehicle-dataset-from-cardekho?select=car+data.csv) [Average Year Conversion Rate Data Source link](https://en.wikipedia.org/wiki/Exchange_rate_history_of_the_Indian_rupee)
+[Kaggle Data source link](https://www.kaggle.com/martj42/international-football-results-from-1872-to-2017/data?select=results.csv) 
 
 ## Data Collection
 Source: Kaggle | Webscraping AVG Rupees/GBP conversion data
