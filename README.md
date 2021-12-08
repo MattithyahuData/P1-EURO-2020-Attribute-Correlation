@@ -9,7 +9,8 @@
 **Python 3.7, SSIS, SQL Server, Power BI, PowerPoint, AWS** 
 
 [**Anaconda Packages:**](requirements.txt) pandas, numpy, sklearn, matplotlib, seaborn, selenium, flask, json, pickle  --> *pip install listed* --
-*pip3 install lxml*
+*pip3 install lxml*  
+pip install lxml
 
 [Kaggle Data source link](https://www.kaggle.com/martj42/international-football-results-from-1872-to-2017/data?select=results.csv) 
 
