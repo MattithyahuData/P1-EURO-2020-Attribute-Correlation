@@ -6,9 +6,9 @@
 [View Deployed Model](https://carsalepricecalc.herokuapp.com/)
 
 ## Resources Used
-**Python 3.7, SSIS, SQL Server, Power BI, PowerPoint, AWS** 
+**Python 3.7, SSIS** 
 
-[**Anaconda Packages:**](requirements.txt) pandas, numpy, sklearn, matplotlib, seaborn, selenium, flask, json, pickle  --> *pip install listed* -- 
+[**Anaconda Packages:**](requirements.txt) *pip install listed* --  pandas, numpy, scikit-learn, lxml  
 pip install lxml
 
 Kaggle Data source links: [results](https://www.kaggle.com/martj42/international-football-results-from-1872-to-2017/data?select=results.csv) [fifa_rankings](https://www.kaggle.com/tadhgfitzgerald/fifa-international-soccer-mens-ranking-1993now) [fixtures](https://fixturedownload.com/feed/json/fifa-world-cup-2018)
