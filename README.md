@@ -1,4 +1,4 @@
-# ⚽ World Cup 2022 Prediction: Project Overview 
+# ⚽ World Cup 2018 Prediction: Project Overview 
 * End to end project reasearching the effects certain attributes have on the value of a car
 * Optimized Linear, Lasso, and Random Forest Regressors using GridsearchCV to reach the best model. 
 * Built a client facing API using flask 
@@ -12,21 +12,11 @@
 pip install lxml
 
 Kaggle Data source links: [results](https://www.kaggle.com/martj42/international-football-results-from-1872-to-2017/data?select=results.csv) [fifa_rankings](https://www.kaggle.com/tadhgfitzgerald/fifa-international-soccer-mens-ranking-1993now) [fixtures](https://fixturedownload.com/feed/json/fifa-world-cup-2018)
-Sources: Kaggle.com, fixturedownload.com
 
 
 ## Data Collection
-Source: Kaggle | Webscraping AVG Rupees/GBP conversion data
-*	Year	
-*   Selling_Price	
-*   Present_Price	
-*   Kms_Driven	
-*   Fuel_Type	
-*   Seller_Type	
-*   Transmission	
-*   Owner
--------
-*   Conversion
+Download Sources: Kaggle | fixturedownload
+* 
 
 
 ## Data Cleaning
