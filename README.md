@@ -38,11 +38,13 @@ The highest level of football before Senior football is U21 football. For nation
 * Currently doing more research to validate any lower or higher number. I will simply update the function input when I get this info. 
 * Past performance of previous squads does not guarantee future performance 
 
-## Project Management (Agile - Scrum)
+## Project Management (Agile | Scrum)
 * Resources used
     * Jira
     * Confluence
     * Trello 
 
-#### [See more projects here](https://mattithyahutech.co.uk/).
-#### Questions? [Contact me here](mailto:theanalyticsolutions@gmail.com) 
+## Questions and See more projects    
+
+* #### [See more projects here](https://mattithyahutech.co.uk/).
+* #### [Contact me here](mailto:theanalyticsolutions@gmail.com) 
