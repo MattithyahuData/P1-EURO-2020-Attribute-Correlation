@@ -2,7 +2,7 @@
 * End to end project researching the effects certain attributes have on the value of a car
 * Optimized Linear Regression model using only relevant data in a date range
 
-[View Code](Code/P1 Code.ipynb)
+[View Code](https://github.com/MattithyahuData/P1-World-Cup-2018-Prediction/blob/main/Code/P1%20Code.ipynb)
 
 ## Resources Used
 **Python 3.8.12** 
