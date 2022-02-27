@@ -5,7 +5,7 @@
 [View Code](https://github.com/MattithyahuData/P1-World-Cup-2018-Prediction/blob/main/Code/P1%20Code.ipynb)
 
 ## Resources Used
-**Python 3.8.12** 
+**Python 3** 
 
 [**Anaconda Packages:**](requirements.txt) **pandas, numpy, scikit-learn**
 
